@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Oct  6 16:41:25 2022
+# Process ID: 4248
+# Current directory: D:/xilinx_2020/simple_calulator/simple_calulator.runs/impl_1
+# Command line: vivado.exe -log Calulator_FND.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Calulator_FND.tcl -notrace
+# Log file: D:/xilinx_2020/simple_calulator/simple_calulator.runs/impl_1/Calulator_FND.vdi
+# Journal file: D:/xilinx_2020/simple_calulator/simple_calulator.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Calulator_FND.tcl -notrace
